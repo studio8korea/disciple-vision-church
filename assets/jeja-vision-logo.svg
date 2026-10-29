@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="384" height="92" viewBox="0 0 384 92" role="img" aria-labelledby="title desc">
+ <title id="title">제자비전교회</title>
+ <desc id="desc">황금빛 십자가와 열린 성경을 조합한 제자비전교회 로고 시안</desc>
+ <g fill="none" stroke="#92653D" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M44 8v51" stroke-width="6.5"/>
+  <path d="M25 25h38" stroke-width="6.5"/>
+  <path d="M43.5 70c-9-7-21-9-35-7v11c15-2 26 0 35 7 9-7 20-9 35-7V63c-14-2-26 0-35 7Z" stroke-width="2.6"/>
+  <path d="M43.5 70v11" stroke-width="2.6"/>
+ </g>
+ <text x="97" y="47" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="32" font-weight="800" letter-spacing="-2.4" fill="#233243">제자비전교회</text>
+ <path d="M98 58h251" stroke="#D6C2AC" stroke-width="1"/>
+ <text x="98" y="76" font-family="'Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif" font-size="13" font-weight="600" letter-spacing="-.2" fill="#8B674D">하나님이 꿈꾸시는 제자공동체</text>
+</svg>
